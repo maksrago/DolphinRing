@@ -1,0 +1,4 @@
+spider_cache.txt
+config.js
+extensions/*.js
+!extensions/example.js
